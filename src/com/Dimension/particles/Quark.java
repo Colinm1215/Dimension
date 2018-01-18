@@ -18,6 +18,3 @@ class upQuark extends Quark {
 class downQuark extends Quark {
 
 }
-=======
-public class Quark {
-}
