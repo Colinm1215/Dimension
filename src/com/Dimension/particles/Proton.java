@@ -1,9 +1,7 @@
 package com.Dimension.particles;
 import java.util.*;
 
-/**
- * Created by student on 1/18/18.
- */
+
 public class Proton {
 
     public Proton () {
@@ -14,5 +12,4 @@ public class Proton {
         quarks.add(new downQuark());
 
     }
-}
 }
